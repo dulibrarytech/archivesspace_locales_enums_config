@@ -544,6 +544,7 @@ en:
     subject_source:
       aat: "Art & Architecture Thesaurus"
       DINPSH: "DU Indigenous and Native Peoples Subject Headings"
+      rbmscv: "RBMS Controlled Vocabulary for Rare Materials Cataloging"
       cash: Canadian Subject Headings
       gmgpc: "TGM II, Genre and physical characteristic terms"
       ingest: Unspecified ingested source
